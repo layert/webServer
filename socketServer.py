@@ -1,4 +1,5 @@
 # echo-server.py
+# https://realpython.com/python-sockets/#:~:text=Sockets%20and%20the%20socket%20API,own%20connections%20to%20other%20networks.
 
 import socket
 
